@@ -1,4 +1,4 @@
-# Business Management System Application
+# Inventory/POS Management App
 
 Advanced application business to track expenses and earning of a small industry.
 
